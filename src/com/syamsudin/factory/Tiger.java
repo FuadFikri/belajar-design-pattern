@@ -1,4 +1,6 @@
-package com.syamsudin.builder;
+package com.syamsudin.factory;
+
+import com.syamsudin.factory.Animal;
 
 public class Tiger implements Animal {
 

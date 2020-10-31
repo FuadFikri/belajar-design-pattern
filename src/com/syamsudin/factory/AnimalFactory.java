@@ -1,4 +1,4 @@
-package com.syamsudin.builder;
+package com.syamsudin.factory;
 
 public class AnimalFactory {
     public static Animal create(String type) {

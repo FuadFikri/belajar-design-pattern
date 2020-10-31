@@ -1,9 +1,5 @@
 package com.syamsudin.factory;
 
-import com.syamsudin.builder.AnimalFactory;
-import com.syamsudin.builder.Cow;
-import com.syamsudin.builder.Tiger;
-
 public class Main {
     /*
     * Factory method digunakan

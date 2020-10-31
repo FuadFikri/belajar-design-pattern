@@ -14,6 +14,7 @@ public class BuilderApp {
         System.out.println(student.toString());
 
 //menggunakan builder
+//        builder digunakan ketika classnya mempunyai property sangat banyak dan sering berubah
         Student student1 = new StudentBuilder()
                 .setFirstName("JOko")
                 .setEmail("joko@mail.com")
